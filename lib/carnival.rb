@@ -17,6 +17,5 @@ class Carnival
   end
 
   def most_profitable
-
   end
 end
